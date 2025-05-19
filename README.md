@@ -39,5 +39,5 @@ Add them via `pubspec.yaml` (already included).
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/ridaprivt/quiz_app.git
+git clone https://github.com/ridaprivt/Quiz-App
 cd quiz_app
